@@ -51,4 +51,5 @@ topic，channel一旦建立，将会一直存在，要及时在管理台或者�
 ### 模型动图 <br>
 ![image](https://github.com/GrumpyOmer/studyNsq/blob/master/images/3383256184-58ff49e3526a9_articlex.gif)
 
-
+### NSQ工作模式 <br>
+![image](https://github.com/GrumpyOmer/studyNsq/blob/master/images/nsq4.png)
